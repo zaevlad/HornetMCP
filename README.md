@@ -23,7 +23,7 @@ This MCP client allows you to:
 - **Internet connection** (for API access)
 
 ### Get Your API Key
-1. Visit the dashboard at: https://yourdomain.com/dashboard
+1. Visit the dashboard at: https://hornetmcp.com/dashboard
 2. Navigate to **API Keys** section
 3. Click **"Create New API Key"**
 4. Copy the key (it starts with `sk_`)
@@ -84,7 +84,7 @@ pip install -r requirements.txt
 2. Edit `.env` file and add your credentials:
    ```ini
    API_KEY=sk_your_api_key_here
-   API_URL=https://yourdomain.com
+   API_URL=https://hornetmcp.com
    ```
 
 ### Step 4: Test the Client
@@ -104,7 +104,7 @@ python3 mcp_client.py
 You should see:
 ```
 ✅ MCP Client starting...
-✅ API Server: https://yourdomain.com
+✅ API Server: https://hornetmcp.com
 ✅ API Key: sk_abc123...
 ```
 
@@ -508,7 +508,7 @@ What are the most common reentrancy attack patterns in Solidity?
 **Solution:**
 1. Check your internet connection
 2. Verify `API_URL` in `.env` is correct
-3. Try accessing the URL in your browser: `https://yourdomain.com/api/v1/vulnerabilities/health`
+3. Try accessing the URL in your browser: `https://hornetmcp.com/api/v1/vulnerabilities/health`
 
 ### "Invalid API key"
 
@@ -596,9 +596,9 @@ Check your current usage in the dashboard.
 
 ### Getting Help
 
-- **Documentation:** https://yourdomain.com/docs
-- **API Status:** https://status.yourdomain.com
-- **Support Email:** support@yourdomain.com
+- **Documentation:** https://hornetmcp.com/docs
+- **API Status:** https://status.hornetmcp.com
+- **Support Email:** support@hornetmcp.com
 
 ### Reporting Issues
 
@@ -631,7 +631,7 @@ Restart Claude Desktop after updating.
 | Variable | Required | Description | Example |
 |----------|----------|-------------|---------|
 | `API_KEY` or `MCP_API_KEY` | ✅ Yes | Your API authentication key | `sk_abc123...` |
-| `API_URL` or `MCP_API_URL` | ✅ Yes | API server URL | `https://yourdomain.com` |
+| `API_URL` or `MCP_API_URL` | ✅ Yes | API server URL | `https://hornetmcp.com` |
 
 ### Claude Desktop Config
 
@@ -710,9 +710,9 @@ This MCP client is provided as-is for use with the vulnerability search API serv
 ## 📞 Contact
 
 For questions, support, or feedback:
-- Website: https://yourdomain.com
-- Email: support@yourdomain.com
-- Documentation: https://yourdomain.com/docs
+- Website: https://hornetmcp.com
+- Email: support@hornetmcp.com
+- Documentation: https://hornetmcp.com/docs
 
 Happy secure coding! 🔒✨
 
