@@ -583,7 +583,7 @@ Each API call counts toward your monthly quota:
 
 | Plan | Monthly Quota | Rate Limit |
 |------|--------------|------------|
-| Free | 100 requests | 10/min |
+| Free | 50 requests | 10/min |
 | Basic | 1,000 requests | 20/min |
 | Pro | 10,000 requests | 50/min |
 | Enterprise | Unlimited | Custom |
@@ -711,7 +711,7 @@ This MCP client is provided as-is for use with the vulnerability search API serv
 
 For questions, support, or feedback:
 - Website: https://hornetmcp.com
-- Email: support@hornetmcp.com
+- Twitter: [@rightnowin](https://x.com/RightNowIn)
 - Documentation: https://hornetmcp.com/docs
 
 Happy secure coding! 🔒✨
