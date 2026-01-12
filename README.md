@@ -1,4 +1,6 @@
-# Vulnerabilities MCP Client - Standalone Edition
+# HornetMCP
+
+## Vulnerabilities MCP Client - Standalone Edition
 
 Standalone MCP (Model Context Protocol) client for integrating smart contract vulnerability search directly into Claude Desktop.
 
